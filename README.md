@@ -16,6 +16,9 @@
 
 # ARToolkit-Modern-Devices
 
+(Work in progress)
+You are welcome to contribute!
+
 https://github.com/CursedPrograms/ARToolkit-Unity-Batch-Template
 
 https://github.com/CursedPrograms/ARToolkit-Unity-Template
